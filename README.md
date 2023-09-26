@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaemin-cho04 (Jaemin Cho).
+- 👋 Hi, I’m @jaemin-cho04 (Jaemin Justin Cho).
 - 👀 I’m interested in the development of artificial intelligence. 
 - 🌱 I’m currently learning Mechatronics and Artificial Intelligence Systems Engineering at the University of Western.
 - 💞️ I’m looking to collaborate on any engineering related projects. 
